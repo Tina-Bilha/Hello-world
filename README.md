@@ -4,14 +4,14 @@ Here is a breakdown of what i did in my project
 Create a folder somewhere on your PC and open terminal or cmd or whatever and set the directory to that folder
 
 my folder is called mysite
-C:\Users\Ijas\Desktop> mkdir mySite
-C:\Users\Ijas\Desktop>cd mySite
-C:\Users\Ijas\Desktop\mySite>
+C:\Users\bilha\Desktop> mkdir mySite
+C:\Users\bilha\Desktop>cd mySite
+C:\Users\bilha\Desktop\mySite>
 
 
 Now we need to initialize our project
 use > npm init
-C:\Users\Ijas\Desktop\mySite>npm init
+C:\Users\bilha\Desktop\mySite>npm init
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 See `npm help init` for definitive documentation on these fields
