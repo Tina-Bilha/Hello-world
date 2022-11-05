@@ -2,10 +2,13 @@
 hello world app using Node js
 Here is a breakdown of what i did in my project
 Create a folder somewhere on your PC and open terminal or cmd or whatever and set the directory to that folder
+
 my folder is called mysite
 C:\Users\Ijas\Desktop> mkdir mySite
 C:\Users\Ijas\Desktop>cd mySite
 C:\Users\Ijas\Desktop\mySite>
+
+
 Now we need to initialize our project
 use > npm init
 C:\Users\Ijas\Desktop\mySite>npm init
